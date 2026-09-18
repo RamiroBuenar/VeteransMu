@@ -1,0 +1,244 @@
+17:50:28 ----------------------------------------------------------------------------------------------------
+17:50:28 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9143/15662mb
+17:50:28 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+17:50:28 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+17:50:28 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+17:50:28 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:50:28 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:50:28 [HCDumpListRecv] Count: 77, MaxCount: 303
+17:50:28 [HCChecksumListRecv] Count: 0, MaxCount: 0
+17:50:28 [HCInternalListRecv] Count: 15, MaxCount: 15
+17:50:28 [HCWindowListRecv] Count: 0, MaxCount: 0
+17:50:28 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+17:50:30 [EntryProc] Initialization successful
+17:51:14 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
+17:51:14 [CConnection::DataSend] send() failed with error: 10054
+17:52:04 ----------------------------------------------------------------------------------------------------
+17:52:04 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9264/15662mb
+17:52:04 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+17:52:04 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+17:52:04 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+17:52:04 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:52:04 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:52:04 [HCDumpListRecv] Count: 77, MaxCount: 303
+17:52:04 [HCChecksumListRecv] Count: 0, MaxCount: 0
+17:52:04 [HCInternalListRecv] Count: 15, MaxCount: 15
+17:52:04 [HCWindowListRecv] Count: 0, MaxCount: 0
+17:52:05 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+17:52:07 [EntryProc] Initialization successful
+17:52:52 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
+17:57:05 ----------------------------------------------------------------------------------------------------
+17:57:05 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9231/15662mb
+17:57:05 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+17:57:05 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+17:57:05 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+17:57:05 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:57:05 [HCDumpListRecv] Count: 113, MaxCount: 303
+17:57:05 [HCDumpListRecv] Count: 77, MaxCount: 303
+17:57:05 [HCChecksumListRecv] Count: 0, MaxCount: 0
+17:57:05 [HCInternalListRecv] Count: 15, MaxCount: 15
+17:57:05 [HCWindowListRecv] Count: 0, MaxCount: 0
+17:57:06 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+17:57:08 [EntryProc] Initialization successful
+18:48:42 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
+18:48:43 [CConnection::DataSend] send() failed with error: 10054
+18:48:50 [CConnection::Connect] connect() failed with error: 10061
+18:48:57 [CConnection::Connect] connect() failed with error: 10061
+18:49:05 [CConnection::Connect] connect() failed with error: 10061
+18:49:12 [CConnection::Connect] connect() failed with error: 10061
+18:49:19 [CConnection::Connect] connect() failed with error: 10061
+18:49:26 [CConnection::Connect] connect() failed with error: 10061
+18:49:33 [CConnection::Connect] connect() failed with error: 10061
+18:49:40 [CConnection::Connect] connect() failed with error: 10061
+18:49:47 [CConnection::Connect] connect() failed with error: 10061
+18:49:54 [CConnection::Connect] connect() failed with error: 10061
+18:50:01 [CConnection::Connect] connect() failed with error: 10061
+18:50:08 [CConnection::Connect] connect() failed with error: 10061
+18:50:15 [CConnection::Connect] connect() failed with error: 10061
+18:50:22 [CConnection::Connect] connect() failed with error: 10061
+18:50:30 [CConnection::Connect] connect() failed with error: 10061
+18:50:37 [CConnection::Connect] connect() failed with error: 10061
+18:50:44 [CConnection::Connect] connect() failed with error: 10061
+18:50:51 [CConnection::Connect] connect() failed with error: 10061
+20:02:25 ----------------------------------------------------------------------------------------------------
+20:02:25 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 10020/15662mb
+20:02:25 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:02:25 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:02:25 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:02:25 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:02:25 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:02:25 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:02:25 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:02:25 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:02:25 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:02:26 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:02:28 [EntryProc] Initialization successful
+20:14:19 ----------------------------------------------------------------------------------------------------
+20:14:19 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9916/15662mb
+20:14:19 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:14:19 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:14:19 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:14:19 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:14:19 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:14:19 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:14:19 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:14:19 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:14:19 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:14:20 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:14:22 [EntryProc] Initialization successful
+20:15:26 ----------------------------------------------------------------------------------------------------
+20:15:26 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 10048/15662mb
+20:15:26 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:15:26 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:15:26 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:15:26 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:15:26 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:15:26 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:15:26 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:15:26 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:15:26 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:15:26 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:15:29 [EntryProc] Initialization successful
+20:27:49 ----------------------------------------------------------------------------------------------------
+20:27:49 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5048/15662mb
+20:27:49 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:27:49 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:27:49 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:27:49 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:27:49 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:27:49 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:27:49 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:27:49 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:27:49 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:27:50 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:27:52 [EntryProc] Initialization successful
+20:28:27 ----------------------------------------------------------------------------------------------------
+20:28:27 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5174/15662mb
+20:28:27 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:28:27 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:28:27 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:28:27 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:28:27 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:28:27 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:28:27 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:28:27 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:28:27 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:28:27 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:28:29 [EntryProc] Initialization successful
+20:29:38 ----------------------------------------------------------------------------------------------------
+20:29:38 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5235/15662mb
+20:29:38 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:29:38 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:29:38 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:29:38 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:29:38 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:29:38 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:29:38 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:29:38 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:29:38 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:29:38 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:29:41 [EntryProc] Initialization successful
+20:31:29 ----------------------------------------------------------------------------------------------------
+20:31:29 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5238/15662mb
+20:31:29 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:31:29 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:31:29 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:31:29 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:31:29 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:31:29 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:31:29 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:31:29 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:31:29 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:31:30 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:31:32 [EntryProc] Initialization successful
+20:33:46 ----------------------------------------------------------------------------------------------------
+20:33:46 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5285/15662mb
+20:33:46 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:33:46 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:33:46 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:33:46 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:33:46 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:33:46 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:33:46 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:33:46 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:33:46 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:33:46 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:33:48 [EntryProc] Initialization successful
+20:34:48 ----------------------------------------------------------------------------------------------------
+20:34:48 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 5412/15662mb
+20:34:48 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:34:48 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:34:48 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:34:48 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:34:48 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:34:48 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:34:48 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:34:48 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:34:48 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:34:49 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:34:51 [EntryProc] Initialization successful
+20:48:48 ----------------------------------------------------------------------------------------------------
+20:48:48 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 8643/15662mb
+20:48:48 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+20:48:48 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+20:48:48 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+20:48:48 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:48:48 [HCDumpListRecv] Count: 113, MaxCount: 303
+20:48:48 [HCDumpListRecv] Count: 77, MaxCount: 303
+20:48:48 [HCChecksumListRecv] Count: 0, MaxCount: 0
+20:48:48 [HCInternalListRecv] Count: 15, MaxCount: 15
+20:48:48 [HCWindowListRecv] Count: 0, MaxCount: 0
+20:48:48 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+20:48:50 [EntryProc] Initialization successful
+22:03:17 ----------------------------------------------------------------------------------------------------
+22:03:17 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9279/15662mb
+22:03:17 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+22:03:17 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+22:03:17 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+22:03:17 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:03:17 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:03:17 [HCDumpListRecv] Count: 77, MaxCount: 303
+22:03:17 [HCChecksumListRecv] Count: 0, MaxCount: 0
+22:03:17 [HCInternalListRecv] Count: 15, MaxCount: 15
+22:03:17 [HCWindowListRecv] Count: 0, MaxCount: 0
+22:03:17 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+22:03:19 [EntryProc] Initialization successful
+22:41:18 ----------------------------------------------------------------------------------------------------
+22:41:18 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 8841/15662mb
+22:41:18 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+22:41:18 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+22:41:18 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+22:41:18 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:41:18 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:41:18 [HCDumpListRecv] Count: 77, MaxCount: 303
+22:41:18 [HCChecksumListRecv] Count: 0, MaxCount: 0
+22:41:18 [HCInternalListRecv] Count: 15, MaxCount: 15
+22:41:18 [HCWindowListRecv] Count: 0, MaxCount: 0
+22:41:19 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+22:41:21 [EntryProc] Initialization successful
+22:56:44 ----------------------------------------------------------------------------------------------------
+22:56:44 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9060/15662mb
+22:56:44 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+22:56:44 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+22:56:44 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+22:56:44 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:56:44 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:56:44 [HCDumpListRecv] Count: 77, MaxCount: 303
+22:56:44 [HCChecksumListRecv] Count: 0, MaxCount: 0
+22:56:44 [HCInternalListRecv] Count: 15, MaxCount: 15
+22:56:44 [HCWindowListRecv] Count: 0, MaxCount: 0
+22:56:45 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+22:56:47 [EntryProc] Initialization successful
+22:58:41 ----------------------------------------------------------------------------------------------------
+22:58:41 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9076/15662mb
+22:58:41 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: Liberty MU 97D
+22:58:41 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: D8093F88, HackVersion: 1.7.0, HardwareId: 2FC3A75D-B9B991A5-CD1EE71B-BA04EFD7
+22:58:41 [HCClientInfoRecv] Result: 0, EncDecKey: 0 - 0, InternalVersion: 0, Reconnect: 1, MemoryGuard: 0 - 3, MacroProtect: 1 - 6, MemoryAddress: E611B2 - E61F68 - E61F70 - 8793718 - 8128AC8 - E8C578 - 9D0040 - 9CFC26
+22:58:41 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:58:41 [HCDumpListRecv] Count: 113, MaxCount: 303
+22:58:41 [HCDumpListRecv] Count: 77, MaxCount: 303
+22:58:41 [HCChecksumListRecv] Count: 0, MaxCount: 0
+22:58:41 [HCInternalListRecv] Count: 15, MaxCount: 15
+22:58:41 [HCWindowListRecv] Count: 0, MaxCount: 0
+22:58:41 [EntryProc] DumpListMaxCount: 303, ChecksumListMaxCount: 0, InternalListMaxCount: 15, WindowListMaxCount: 0
+22:58:43 [EntryProc] Initialization successful
