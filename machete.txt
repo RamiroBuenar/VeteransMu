@@ -1,0 +1,125 @@
+CONFIGURAR MISIONES
+
+MuServer/Data/Custom/CustomQuest.txt
+
+
+
+CONFIGURAR SHOPS 
+
+
+MuServer/Dara/ShopManager.txt
+Los configuras desde MuServer/Data/Shop/...
+
+
+
+
+DROP DE JOYAS (drop generales tambien)
+
+MU SERVER/data/item /item drop txt
+
+
+
+**CONFIGURAR CANTIDAD DE CATIDA DE ZEM O EXE POR MAPA**
+
+MU SERVER /DATA/ MAP MANAGER
+
+
+
+***CONFIGURAR BOXS Y SUS DROPS****
+
+MuServer/Data/ EventItemBag
+
+
+
+
+****CAMBIAR MENSAJES DEL SERVIDOR**** 
+
+MUSERVER/DATA/UTIL
+
+
+
+
+********CAMBIAR DROP DE BOX DE NPC EXE POR BOX*********
+GameServer/DATA/Command.dat
+
+
+******** NPC CREATION SHOP*********
+MuServer/Data/Custom/CustomItemExchange
+
+
+*****************ELF BUFFER**********************
+MuServer/GameServer/DATA/COMMON
+
+
+****************TIEMPO ELF BUFF*************************
+
+MuSERVER/DATA/SKILL/EFECLIST
+
+
+
+
+
+
+***************************CANTIDAD DE VECES QUE CAE ZEN DE UN MOSTER**************************
+MUSERVER/DATA/MOSTER/MOSTERLIST/MONEYRATE   (MAYOR NUMERO MENOS CAIDA)
+
+
+
+
+
+***************************CARAMELOS DE EXP**************************
+
+
+se configuran desde GameServer/Data/item  (se remplaza y modifica en ambos GameServer)
+
+
+***************************PARTY SETTING**************************
+MU SERVER/GAME SERVER/DATA/GAMESERVER COMMON
+
+
+
+
+
+
+
+
+***************************INFORMACION GENERAL Y IMPORTANTE DEL SERVER**************************
+
+
+
+DONDE CAMBIAR EL TEMA DEL TIEMPO DEL PICK, ACTIVAR DESACTIVAR COMBOS, Y MUCHAS COSAS MAS 
+
+MU SERVER/GAME SERVER/DATA/GAMESERVER Custom
+
+
+
+
+***************************EVENTO DE DROP DE JOYAS**************************
+
+
+* Custom EVento Drop (DATA/Custom/CustomEventDrop
+
+
+
+
+***************************AUMENTAR POBLACION DEL SERVER**************************
+
+
+
+
+AUMENTAR LA CANTIDAD DE USUARIOS
+
+MU SERVER/GAME SERVER/DATA/GAMESERVER COMMON
+
+
+
+
+
+
+
+***************************CAMBIAR MAPAS DE GAMESERVER A OTRO**************************
+
+
+
+
+muserver/data/mapserverinfo.txt
