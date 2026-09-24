@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<Text Index="0"  Value="Arquivo de configuração não encontrado! \nReinstale o cliente." />
+	<Text Index="1"  Value="O launcher já está em uso." />
+	<Text Index="2"  Value="Arquivo de imagem não encontrado" />
+	<Text Index="3"  Value="Launcher minimizado!" />
+	<Text Index="4"  Value="Verificando atualizações..." />
+	<Text Index="5"  Value="Offline" />
+	<Text Index="6"  Value="Online" />
+	<Text Index="7"  Value="Ocorreu um erro ao atualizar..." />
+	<Text Index="8"  Value="Erro de download: [{0}]" />
+	<Text Index="9"  Value="Preparando a atualização..." />
+	<Text Index="10" Value="Verificando: [{0}]..." />
+	<Text Index="11" Value="Baixando: [{0}]" />
+	<Text Index="12" Value="Atualizando o cliente..." />
+	<Text Index="13" Value="Verificação concluída!" />
+	<Text Index="14" Value="O cliente está totalmente atualizado." />
+	<Text Index="15" Value="Launcher iniciado, bom jogo!" />
+</Language>
