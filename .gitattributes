@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# MU client: NO normalizar saltos de linea (rompe CRC32 de binarios).
+* -text
+*.txt text eol=crlf
+*.ini text eol=crlf
+*.xml text eol=crlf
+*.reg text eol=crlf
+*.cfg text eol=crlf
+*.inf text eol=crlf

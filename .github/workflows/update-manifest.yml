@@ -1,0 +1,59 @@
+name: Regen update.info + version
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'update.info'
+      - 'version.txt'
+      - '.github/workflows/update-manifest.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  regen:
+    # Corre en Windows para generar rutas con backslash igual que Parcer_MiniUpd.exe
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Regen update.info
+        shell: pwsh
+        run: python tools/gen_update_info.py .
+
+      - name: Bump version.txt
+        shell: pwsh
+        run: |
+          $v = 1
+          if (Test-Path version.txt) {
+            $raw = (Get-Content version.txt -Raw).Trim()
+            [int]$n = 0
+            if ([int]::TryParse($raw, [ref]$n)) { $v = $n + 1 } else { $v = 1 }
+          }
+          Set-Content version.txt "$v" -NoNewline -Encoding ascii
+          Get-Content version.txt
+
+      - name: Commit update.info + version.txt
+        shell: pwsh
+        run: |
+          git config user.name "mu-updater-bot"
+          git config user.email "mu-updater-bot@users.noreply.github.com"
+          git add update.info version.txt
+          git diff --cached --quiet && echo "sin cambios" || git commit -m "auto: regen update.info + bump version [skip ci]"
+          git push origin main
+
+      # --- FUTURO VPS (descomentar cuando tengas dominio) ---
+      # - name: Deploy a VPS
+      #   if: success()
+      #   uses: burnett01/rsync-deployments@master
+      #   with:
+      #     switches: -avzr --delete --exclude='.git*' --exclude='.github'
+      #     path: ./
+      #     remote_path: /var/www/parches/
+      #     remote_host: ${{ secrets.VPS_HOST }}
+      #     remote_user: ${{ secrets.VPS_USER }}
+      #     remote_key: ${{ secrets.VPS_KEY }}

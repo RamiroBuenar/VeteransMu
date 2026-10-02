@@ -1,0 +1,16 @@
+# Local / no distribuir al cliente
+Logs/
+ScreenShots/
+*.dmp
+*.bak
+*.tmp
+update.info.bak
+.gitattributes.bak
+Parcer_*.exe
+file_parser*.exe
+NewLauncher.exe
+
+# OS / editores
+Thumbs.db
+Desktop.ini
+.vs/
