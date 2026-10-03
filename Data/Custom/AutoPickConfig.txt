@@ -7,3 +7,6 @@ Rena|1
 Excellent|1
 Box of Luck|1
 Silver Medal|1
+Loch's Feather|1
+Scroll of Archangel|1
+Devil|1

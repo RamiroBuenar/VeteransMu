@@ -16,4 +16,21 @@
 	<Text Index="13" Value="¡Comprobación completada!" />
 	<Text Index="14" Value="El cliente está totalmente actualizado." />
 	<Text Index="15" Value="¡Launcher iniciado, que tengas un buen juego!" />
+	<Text Index="16" Value="Resolución de pantalla" />
+	<Text Index="17" Value="Mayor resolución = mejor calidad visual, pero requiere un mejor sistema." />
+	<Text Index="18" Value="Modo ventana" />
+	<Text Index="19" Value="Profundidad de color" />
+	<Text Index="20" Value="Mayor profundidad de color con mejor calidad de imagen." />
+	<Text Index="21" Value="Color mín. (16 bit)" />
+	<Text Index="22" Value="Color máx. (32 bit)" />
+	<Text Index="23" Value="Sonido" />
+	<Text Index="24" Value="Activa el sonido desde la casilla." />
+	<Text Index="25" Value="Efectos de sonido" />
+	<Text Index="26" Value="Música de fondo" />
+	<Text Index="27" Value="Idioma" />
+	<Text Index="28" Value="Servidor Connect:" />
+	<Text Index="29" Value="Servidor de juego:" />
+	<Text Index="30" Value="Hora del servidor:" />
+	<Text Index="31" Value="Modo ventana" />
+	<Text Index="32" Value="Noticias no disponibles." />
 </Language>
