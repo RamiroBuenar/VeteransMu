@@ -1,0 +1,27 @@
+; ============================================================================
+; Bienvenida.txt - Ventana de bienvenida del servidor ( VeteransMu )
+; ----------------------------------------------------------------------------
+; DONDE EDITAR:
+;   - Copia maestra: MuServer-NUEVO\Data\Custom\Bienvenida.txt (edita aqui)
+;   - El juego lee:  Cliente\Data\Custom\Bienvenida.txt (copia este archivo ahi
+;     e incluyelo en el parche / launcher para que les llegue a los jugadores)
+;   - Los cambios aplican al entrar con el personaje (no hace falta reiniciar)
+; NOTA: evita tildes y eñes, el cliente usa fuente Tahoma (ANSI).
+; En "Saludo" puedes usar %s para el nombre del personaje.
+; ============================================================================
+[Bienvenida]
+Titulo      = BIENVENIDO A VeteransMu
+Saludo      = Hola %s, que gusto verte!
+Recomend1   = - Completa tus misiones presionando la tecla F7
+Recomend2   = - Usa F8 para abrir el sistema automatico de ataque
+Novedad1    = - Evento de doble experiencia todos los sabados
+Novedad2    = - test1
+Novedad3    = - test2
+RedesTitulo = [ NUESTRAS REDES ]
+BotonWeb    = PAGINA WEB
+UrlWeb      = https://veteransmu.muhost.com.ar/
+BotonWs     = WHATSAPP
+UrlWs       = https://chat.whatsapp.com/TU-CODIGO-DE-GRUPO
+BotonDc     = DISCORD
+UrlDc       = https://discord.gg/33gAXMFn6N
+BotonOk     = ACEPTAR
