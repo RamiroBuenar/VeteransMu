@@ -16,4 +16,21 @@
 	<Text Index="13" Value="Check is over, you can start the game!" />
 	<Text Index="14" Value="Client is fully updated." />
 	<Text Index="15" Value="Launcher started, have a good game." />
+	<Text Index="16" Value="Screen Resolution" />
+	<Text Index="17" Value="Setting the resolution higher will result in better visual quality but requires high system requirements." />
+	<Text Index="18" Value="Window Mode" />
+	<Text Index="19" Value="Color Depth" />
+	<Text Index="20" Value="Higher color depth provides a wide range of color to use with higher quality rendering." />
+	<Text Index="21" Value="Min Color (16 bit)" />
+	<Text Index="22" Value="Max color (32 bit)" />
+	<Text Index="23" Value="Sound" />
+	<Text Index="24" Value="Check the box to enable sound." />
+	<Text Index="25" Value="Sound Effects" />
+	<Text Index="26" Value="Background Music" />
+	<Text Index="27" Value="Language" />
+	<Text Index="28" Value="Connect Server:" />
+	<Text Index="29" Value="Game Server:" />
+	<Text Index="30" Value="Server Time:" />
+	<Text Index="31" Value="WinMode" />
+	<Text Index="32" Value="News temporarily unavailable." />
 </Language>
