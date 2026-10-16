@@ -8,5 +8,8 @@ Excellent|1
 Box of Luck|1
 Silver Medal|1
 Loch's Feather|1
+<<<<<<< HEAD
 Scroll of Archangel|1
 Devil|1
+=======
+>>>>>>> bb979e05f764163c74f587e31b7464187159ec4a
